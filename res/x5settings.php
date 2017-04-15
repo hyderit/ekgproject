@@ -7,11 +7,11 @@
 */
 
 $imSettings['general'] = array(
-	'url' => 'http://wsuekgteam.github.com/',
-	'homepage_url' => 'http://wsuekgteam.github.com/index.html',
-	'icon' => 'http://wsuekgteam.github.com/favicon.ico',
+	'url' => 'https://hyderit.github.io/eleka/',
+	'homepage_url' => 'https://hyderit.github.io/eleka/index.html',
+	'icon' => 'https://hyderit.github.io/eleka/favicon.ico',
 	'version' => '13.0.1.16',
-	'sitename' => 'EKG Project',
+	'sitename' => 'PROJECT ELEKA',
 	'public_folder' => '',
 	'salt' => '9zhq9n6o7wi115hm6p4grxh83z3jdev592s1g674b7l3xvi5uipy9',
 	'use_common_email_sender_address' => false,

@@ -7,7 +7,7 @@ $imSettings['search']['general'] = array(
 	'menu_position' => 'left',
 	'defaultScope' => array(
 		'0' => 'index.html',
-		'3' => 'products-and-services.html',
+		'3' => 'about-eleka.html',
 		'4' => 'about-us.html',
 		'5' => 'contact-us.html'
 	),

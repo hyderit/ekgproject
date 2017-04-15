@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://wsuekgteam.github.com/index.html</loc>
-		<lastmod>2017-04-12</lastmod>
+		<loc>https://hyderit.github.io/eleka/index.html</loc>
+		<lastmod>2017-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wsuekgteam.github.com/products-and-services.html</loc>
-		<lastmod>2017-04-12</lastmod>
+		<loc>https://hyderit.github.io/eleka/about-eleka.html</loc>
+		<lastmod>2017-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wsuekgteam.github.com/about-us.html</loc>
-		<lastmod>2017-04-12</lastmod>
+		<loc>https://hyderit.github.io/eleka/about-us.html</loc>
+		<lastmod>2017-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wsuekgteam.github.com/contact-us.html</loc>
-		<lastmod>2017-04-12</lastmod>
+		<loc>https://hyderit.github.io/eleka/contact-us.html</loc>
+		<lastmod>2017-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wsuekgteam.github.com/imsitemap.html</loc>
-		<lastmod>2017-04-12</lastmod>
+		<loc>https://hyderit.github.io/eleka/imsitemap.html</loc>
+		<lastmod>2017-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>

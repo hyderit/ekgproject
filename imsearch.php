@@ -2,16 +2,16 @@
 <!DOCTYPE html><!-- HTML5 -->
 <html prefix="og: http://ogp.me/ns#" lang="en-GB" dir="ltr">
 	<head>
-		<title>Search - EKG Project</title>
+		<title>Search - PROJECT ELEKA</title>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="author" content="Hayder Hamandi" />
 		<meta name="generator" content="Incomedia WebSite X5 Professional 13.0.1.16 - www.websitex5.com" />
 		<meta property="og:locale" content="en" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://wsuekgteam.github.com/imsearch.php" />
+		<meta property="og:url" content="https://hyderit.github.io/eleka/imsearch.php" />
 		<meta property="og:title" content="Search" />
-		<meta property="og:site_name" content="EKG Project" />
+		<meta property="og:site_name" content="PROJECT ELEKA" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
 		<link rel="stylesheet" type="text/css" href="style/reset.css?13-0-1-16" media="screen,print" />
@@ -19,7 +19,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-0-1-16" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-0-1-16" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-0-1-16" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-636276237308936040" media="screen" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-636278674762068304" media="screen" />
 		<script type="text/javascript" src="res/jquery.js?13-0-1-16"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-0-1-16" data-files-version="13-0-1-16"></script>
 		
@@ -28,15 +28,15 @@
 		<script type="text/javascript">
 			window.onload = function(){ checkBrowserCompatibility('Your browser does not support the features necessary to display this website.','Your browser may not support the features necessary to display this website.','[1]Update your browser[/1] or [2]continue without updating[/2].','http://outdatedbrowser.com/'); };
 		</script>
-		<link rel="icon" href="favicon.ico?13-0-1-16-636276237308936040" type="image/vnd.microsoft.icon" />
+		<link rel="icon" href="favicon.ico?13-0-1-16-636278674762058291" type="image/vnd.microsoft.icon" />
 	</head>
 	<body>
 		<div id="imHeaderBg"></div>
 		<div id="imFooterBg"></div>
 		<div id="imPage">
 			<div id="imHeader">
-				<h1 class="imHidden">Search - EKG Project</h1>
-				<div id="imHeaderObjects"><div id="imHeader_imObjectTitle_07_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_7" class="" > <div id="imHeader_imCellStyleGraphics_7"></div><div id="imHeader_imCellStyle_7" ><div id="imHeader_imObjectTitle_07"><div id ="imHeader_imObjectTitle_07_text">EKG Self Diagnosis System </div > </div></div></div></div><div id="imHeader_imObjectImage_08_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_8" class="" > <div id="imHeader_imCellStyleGraphics_8"></div><div id="imHeader_imCellStyle_8" ><img id="imHeader_imObjectImage_08" src="images/made-in-the-d.jpg" title="" alt="" /></div></div></div></div>
+				<h1 class="imHidden">Search - PROJECT ELEKA</h1>
+				<div id="imHeaderObjects"><div id="imHeader_imObjectTitle_07_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_7" class="" > <div id="imHeader_imCellStyleGraphics_7"></div><div id="imHeader_imCellStyle_7" ><div id="imHeader_imObjectTitle_07"><div id ="imHeader_imObjectTitle_07_text">PROJECT ELEKA </div > </div></div></div></div><div id="imHeader_imObjectImage_08_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_8" class="" > <div id="imHeader_imCellStyleGraphics_8"></div><div id="imHeader_imCellStyle_8" ><img id="imHeader_imObjectImage_08" src="images/made-in-the-d.jpg" title="" alt="" /></div></div></div></div>
 			</div>
 			<a class="imHidden" href="#imGoToCont" title="Skip the main menu">Go to content</a>
 			<a id="imGoToMenu"></a><p class="imHidden">Main menu:</p>
@@ -48,13 +48,13 @@
 					<li id="imMnMnNode0" class=" imPage">
 						<a href="index.html">
 							<span class="imMnMnFirstBg">
-								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Home Page</span></span>
+								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Home</span></span>
 							</span>
 						</a>
 					</li><li id="imMnMnNode3" class=" imPage">
-						<a href="products-and-services.html">
+						<a href="about-eleka.html">
 							<span class="imMnMnFirstBg">
-								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Products and Services</span></span>
+								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">About ELEKA</span></span>
 							</span>
 						</a>
 					</li><li id="imMnMnNode4" class=" imPage">

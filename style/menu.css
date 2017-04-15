@@ -31,8 +31,8 @@
 #imMnMn.main-menu > ul > li.imMnMnSeparator > .imMnMnFirstBg > .imMnMnTxt { display: none; }
 #imMnMn.main-menu > ul > li > a { text-decoration: none; }
 #imMnMn.main-menu > ul > li .imMnMnFirstBg > .imMnMnTxt { overflow: hidden; margin: 0px; padding: 0px;  width: 115px; height: 68px; font: normal normal bold 11pt 'Tahoma'; color: #000000; text-align: center; text-decoration: none; line-height: 68px; display: block;}
-#imMnMn.main-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.main-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: normal;font-style: normal;}
-#imMnMn.main-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: normal;font-style: normal;}
+#imMnMn.main-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.main-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: bold;font-style: normal;}
+#imMnMn.main-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: bold;font-style: normal;}
 #imMnMn.main-menu > ul > li.imMnMnSeparator { background: transparent url('../res/separatorh.png') no-repeat center center; width: 10px; height: 68px; }
 #imMnMn.main-menu .imMnMnFirstBg { position: relative; display: block; background-repeat: no-repeat; cursor: pointer; width: 100%; }
 #imMnMn.main-menu a { border: none; cursor: pointer; }
@@ -105,8 +105,8 @@
 #imMnMn.main-menu > ul > li.imMnMnSeparator > .imMnMnFirstBg > .imMnMnTxt { display: none; }
 #imMnMn.main-menu > ul > li > a { text-decoration: none; }
 #imMnMn.main-menu > ul > li .imMnMnFirstBg > .imMnMnTxt { overflow: hidden; margin: 0px; padding: 0px;  width: 115px; height: 68px; font: normal normal bold 11pt 'Tahoma'; color: #000000; text-align: center; text-decoration: none; line-height: 68px; display: block;}
-#imMnMn.main-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.main-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: normal;font-style: normal;}
-#imMnMn.main-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: normal;font-style: normal;}
+#imMnMn.main-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.main-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: bold;font-style: normal;}
+#imMnMn.main-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: bold;font-style: normal;}
 #imMnMn.main-menu > ul > li.imMnMnSeparator { background: transparent url('../res/separatorh.png') no-repeat center center; width: 10px; height: 68px; }
 #imMnMn.main-menu .imMnMnFirstBg { position: relative; display: block; background-repeat: no-repeat; cursor: pointer; width: 100%; }
 #imMnMn.main-menu a { border: none; cursor: pointer; }
@@ -262,8 +262,8 @@
 #imMnMn.static-menu > ul > li.imMnMnSeparator > .imMnMnFirstBg > .imMnMnTxt { display: none; }
 #imMnMn.static-menu > ul > li > a { text-decoration: none; }
 #imMnMn.static-menu > ul > li .imMnMnFirstBg > .imMnMnTxt { overflow: hidden; margin: 0px; padding: 0px;  width: 115px; height: 68px; font: normal normal bold 11pt 'Tahoma'; color: #000000; text-align: center; text-decoration: none; line-height: 68px; display: block;}
-#imMnMn.static-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.static-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: normal;font-style: normal;}
-#imMnMn.static-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: normal;font-style: normal;}
+#imMnMn.static-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.static-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: bold;font-style: normal;}
+#imMnMn.static-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: bold;font-style: normal;}
 #imMnMn.static-menu > ul > li.imMnMnSeparator { background: transparent url('../res/separatorh.png') no-repeat center center; width: 10px; height: 68px; }
 #imMnMn.static-menu .imMnMnFirstBg { position: relative; display: block; background-repeat: no-repeat; cursor: pointer; width: 100%; }
 #imMnMn.static-menu a { border: none; cursor: pointer; }
@@ -337,8 +337,8 @@
 #imMnMn.static-menu > ul > li.imMnMnSeparator > .imMnMnFirstBg > .imMnMnTxt { display: none; }
 #imMnMn.static-menu > ul > li > a { text-decoration: none; }
 #imMnMn.static-menu > ul > li .imMnMnFirstBg > .imMnMnTxt { overflow: hidden; margin: 0px; padding: 0px;  width: 115px; height: 68px; font: normal normal bold 11pt 'Tahoma'; color: #000000; text-align: center; text-decoration: none; line-height: 68px; display: block;}
-#imMnMn.static-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.static-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: normal;font-style: normal;}
-#imMnMn.static-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: normal;font-style: normal;}
+#imMnMn.static-menu > ul > li:hover .imMnMnFirstBg > .imMnMnTxt, #imMnMn.static-menu > ul > li.imMnMnCurrent:hover .imMnMnFirstBg > .imMnMnTxt { cursor: pointer; color: #000000;font-weight: bold;font-style: normal;}
+#imMnMn.static-menu > ul > li.imMnMnCurrent .imMnMnFirstBg > .imMnMnTxt { color: #000000;font-weight: bold;font-style: normal;}
 #imMnMn.static-menu > ul > li.imMnMnSeparator { background: transparent url('../res/separatorh.png') no-repeat center center; width: 10px; height: 68px; }
 #imMnMn.static-menu .imMnMnFirstBg { position: relative; display: block; background-repeat: no-repeat; cursor: pointer; width: 100%; }
 #imMnMn.static-menu a { border: none; cursor: pointer; }
