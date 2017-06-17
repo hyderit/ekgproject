@@ -13,7 +13,7 @@ Version 1.0
 
 ## Authors
 
-* **Hayder Hamandi** - *PhD Candidate* - [Wayne State University](https://www.linkedin.com/in/hayder-hamandi-3356b8b4)
+* [**Hayder Hamandi**](https://www.linkedin.com/in/hayder-hamandi-3356b8b4) - *PhD Candidate* - [Wayne State University](http://www.wayne.edu)
 
 ## Acknowledgments
 
